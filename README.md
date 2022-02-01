@@ -10,6 +10,6 @@
 
 ## 🚀 Quick start
 
-
+Live Link: https://pedantic-borg-07eb4b.netlify.app
 
 <!-- AUTO-GENERATED-CONTENT:END -->
