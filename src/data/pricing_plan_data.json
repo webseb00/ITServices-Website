@@ -1,0 +1,38 @@
+[
+  {
+    "img": "../images/graphic_1.png",
+    "type": "basic",
+    "features": [
+      "Free Custom Domain",
+      "Monthly updates",
+      "Outstanding Support",
+      "Happy Customers"
+    ],
+    "price": 29,
+    "intended_for": "per user"
+  },
+  {
+    "img": "../images/graphic_3.png",
+    "type": "standard",
+    "features": [
+      "Free Custom Domain",
+      "Monthly updates",
+      "Outstanding Support",
+      "Happy Customers"
+    ],
+    "price": 59,
+    "intended_for": "per user"
+  },
+  {
+    "img": "../images/graphic_3.png",
+    "type": "extended",
+    "features": [
+      "Free Custom Domain",
+      "Monthly updates",
+      "Outstanding Support",
+      "Happy Customers"
+    ],
+    "price": 89,
+    "intended_for": "per user"
+  }
+]

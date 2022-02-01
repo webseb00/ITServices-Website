@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../images/graphic_1.png",
+    "alt": "Graphic 1",
+    "heading": "Creative UI/UX 1",
+    "text": "Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.",
+    "link_route": "/",
+    "link_text": "Read Details"
+  },
+  {
+    "img": "../images/graphic_2.png",
+    "alt": "Graphic 2",
+    "heading": "Simple CMS",
+    "text": "Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.",
+    "link_route": "/",
+    "link_text": "Read Details"
+  },
+  {
+    "img": "../images/graphic_3.png",
+    "alt": "Graphic 3",
+    "heading": "Editable Content",
+    "text": "Serspiciatis unde omnis iste natus error sit doloremque laudantium, totam rem aperiam.",
+    "link_route": "/",
+    "link_text": "Read Details"
+  }
+]

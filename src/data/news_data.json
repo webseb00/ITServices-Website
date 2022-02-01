@@ -1,0 +1,18 @@
+[
+  {
+    "img": "../images/news_1.png",
+    "date_day": 15,
+    "date_month": "July",
+    "tag": "Sass",
+    "title": "Bootsland Perfect Performance landing Page",
+    "text": "Businesses need access to development resources serspiciatis."
+  },
+  {
+    "img": "../images/news_2.png",
+    "date_day": 26,
+    "date_month": "July",
+    "tag": "Marketing",
+    "title": "The most powerfull template that make you.",
+    "text": "Businesses need access to development resources serspiciatis."
+  }
+]

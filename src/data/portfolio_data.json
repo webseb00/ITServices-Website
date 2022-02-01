@@ -1,0 +1,82 @@
+[
+  {
+    "img": "../images/work-1.jpg",
+    "name": "Web Development",
+    "tags": ["design", "development"]
+  },
+  {
+    "img": "../images/work-2.jpg",
+    "name": "Web Development",
+    "tags": ["marketing", "development"]
+  },
+  {
+    "img": "../images/work-3.jpg",
+    "name": "Deploying Services",
+    "tags": ["branding", "design"]
+  },
+  {
+    "img": "../images/work-4.jpg",
+    "name": "Lorem Ipsum",
+    "tags": ["branding", "design"]
+  },
+  {
+    "img": "../images/work-5.jpg",
+    "name": "Web Development",
+    "tags": ["design", "marketing"]
+  },
+  {
+    "img": "../images/work-6.jpg",
+    "name": "Website Development",
+    "tags": ["marketing"]
+  },
+  {
+    "img": "../images/work-3.jpg",
+    "name": "Development School",
+    "tags": ["development"]
+  },
+  {
+    "img": "../images/work-1.jpg",
+    "name": "SEO Marketing",
+    "tags": ["marketing"]
+  },
+  {
+    "img": "../images/work-5.jpg",
+    "name": "Lorem Brands",
+    "tags": ["branding"]
+  },
+  {
+    "img": "../images/work-3.jpg",
+    "name": "Staff Training",
+    "tags": ["branding"]
+  },
+  {
+    "img": "../images/work-6.jpg",
+    "name": "eCommerce Softwares",
+    "tags": ["marketing", "development"]
+  },
+  {
+    "img": "../images/work-1.jpg",
+    "name": "New brands development",
+    "tags": ["development", "branding"]
+  },
+  {
+    "img": "../images/work-4.jpg",
+    "name": "Digital Marketing",
+    "tags": ["marketing"]
+  },
+  {
+    "img": "../images/work-2.jpg",
+    "name": "Custom Easy CMS",
+    "tags": ["development"]
+  },
+  {
+    "img": "../images/work-3.jpg",
+    "name": "Custom Text Heading",
+    "tags": ["marketing", "development"]
+  },
+  {
+    "img": "../images/work-5.jpg",
+    "name": "Lorem Ipsum Heading",
+    "tags": ["development", "branding"]
+  }
+]
